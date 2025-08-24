@@ -1,4 +1,78 @@
 # One Thousand and One Nights
-
-- Aladdin
-- Sinbad
+- The Story of King Shahryar and His Brother
+- The Tale of the Ox and the Donkey
+- The Merchant and the Demon
+  - The First Old Man's Tale
+  - The Second Old Man's Tale
+  - The Third Old Man's Tale
+- The Fisherman and the Jinni
+  - The Tale of the Wazir and the Sage Duban
+  - The Tale of King Sindibad and the Falcon
+  - The Tale of the Husband and the Parrot
+  - The Tale of the Prince and the Ogress
+  - The Tale of the Ensorcelled Prince
+- The Porter and the Three Ladies of Baghdad
+  - The First Kalandar's Tale
+  - The Second Kalandar's Tale
+  - The Third Kalandar's Tale
+  - The Tale of the Portress
+  - The Tale of the Portress's Younger Sister
+  - The Tale of the Portress's Elder Sister
+- The Three Apples
+  - The Tale of the Two Viziers
+  - The Tale of Nur al-Din Ali and His Son Badr al-Din Hasan
+- The Tale of the Hunchback
+  - The Hunchback's Tale
+  - The Christian Broker's Tale
+  - The Jewish Doctor's Tale
+  - The Tailor's Tale
+  - The Barber's Tale
+    - The Barber's First Brother
+    - The Barber's Second Brother
+    - The Barber's Third Brother
+    - The Barber's Fourth Brother
+    - The Barber's Fifth Brother
+    - The Barber's Sixth Brother
+- The Tale of Nur al-Din Ali and the Damsel Anis al-Jalis
+- The Tale of Ali ibn Bakkar and Shams al-Nahar
+- The Tale of the Two Eunuchs
+- The Tale of the Porter and the Young Damsel
+- The Tale of Ghanim ibn Ayyub, the Distraught, the Thrall of Love
+- The Tale of Qut al-Qulub and the Caliph Harun al-Rashid
+- The Tale of the Birds and Beasts and the Carpenter
+- The Tale of the Hermit
+- The Tale of Abu Nuwas with the Three Boys
+- The Tale of the Lovers of Bassorah
+- The Tale of the King's Son and the She-Ghoul
+- The Tale of Julnar of the Sea and Her Son King Badr Basim
+- King Omar bin al-Nu'uman and His Sons Sharrkan and Zau al-Makan
+  - Taj al-Muluk and the Princess Dunya
+  - Aziz and Azizah
+- Ali Shar and Zumurrud
+- The Loves of Camar al-Zaman and Princess Budur
+- The Seven Voyages of Sinbad the Sailor
+- The City of Brass
+- The Ebony Horse
+- The Sleeper and the Waker
+- Abu al-Hasan and the Mistress of the House
+- The Lady and Her Five Suitors
+- The Three Wishes or The Man Who Never Laughed Again
+- The Devout Woman and the Two Wicked Elders
+- The Weaver, the Freedman, and the Slave Girl
+- The Three Men and the Talking Bird
+- The Two Kings and the Two Viziers
+- The Prince Who Fell in Love with the Picture
+- The Ruined Man Who Became Rich Again Through a Dream
+- Abu Qir and Abu Sir
+- Abdullah the Fisherman and Abdullah the Merman
+- The Merchant and the Robbers
+- The Magic Horse
+- Ali Baba and the Forty Thieves
+- Aladdin and the Wonderful Lamp
+- Prince Ahmed and the Fairy Peri-Banu
+- The Bull and the Ass
+- Dalilah the Crafty and Her Daughter Zaynab the Coney-Catcher
+- The Hashish Eater
+- The Envious Vizier
+- The Rogue and the Cook
+- The Water-Carrier and the Goldsmith's Wife
