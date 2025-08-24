@@ -1,3 +1,21 @@
 # Kalila wa Dimna
 
 - The Lion and the Bull
+- The Trial of Dimna
+- The Dove, the Rat, the Crow, and the Tortoise
+- The War between the Crows and the Owls
+- The Jackal and the Drum
+- The Monkey and the Tortoise
+- The Tortoise and the Geese
+- The Camel, the Lion, and the Jackal
+- The Lion and the Hare
+- The Cat and the Rat
+- The Heron and the Crab
+- The Crow and the Snake
+- The Lioness and the Jackal
+- The Ascetic and the Guest
+- The Prince and the Ghoul
+- The King and the Bird Fowl
+- The Merchant and His Faithless Wife
+- The Sparrow, the Crow, and the Deer
+- The Brahman and the Mongoose
