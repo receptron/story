@@ -2,3 +2,23 @@
 
 - The Butterfly Dream
 - The Fish and the Giant Bird
+- The Happy Fish
+- The Useless Tree
+- The Useless Gourd
+- The Frog in the Well
+- Cook Ding Carves an Ox
+- The Wheelwright's Wisdom
+- The Woodcarver Qing
+- The Sea Bird of Lu
+- Three in the Morning
+- The Man Who Loved Seagulls
+- Zhuangzi Drums on a Basin
+- Zhuangzi and the Skull
+- The Robber Zhi
+- The Ferryman
+- The Horse's Hooves
+- The Wildcat and the Yak
+- The Battle of the Snail Horns
+- The Yellow Emperor and Guangchengzi
+- The Fish Trap
+- The Death of Hundun
