@@ -8,5 +8,5 @@
 | China | **Fables of Han Feizi** | 3rd century BCE | Political philosophy text containing fables with lessons on power and human psychology. | Waiting for a Rabbit by a Tree Stump; The Fox Borrowing the Tiger's Authority |
 | China | **Fables of Zhuangzi** | 4th century BCE | Zen-like philosophical fables that present a worldview through dreams and animals. | The Butterfly Dream; The Fish and the Giant Bird |
 | Arab World | **One Thousand and One Nights** | around 9th century | Long framing narrative containing many short fables, mixing entertainment with moral instruction. | Aladdin; Sinbad |
-| Japan | **Japanese Folktales** | Ancient to early modern times | Folk and oral traditions that include morals and lessons yet emphasize entertainment. | Momotaro; Urashima Taro; Issun-boshi |
+| Japan | **Japanese Folktales** | Ancient to early modern times | Folk and oral traditions that include morals and lessons yet emphasize entertainment. | Momotaro; Urashima Taro; Issun-boshi; Kaguya-hime; Kintaro |
 | Japan | **Ikkyu-san (Anecdotes and Witty Tales)** | Muromachi period (15th century) | Anecdotes of the Zen monk Ikkyu Sojun, rich in wisdom, quick wit, and humor. | The Tiger in the Folding Screen; "Do Not Cross This Bridge" |
