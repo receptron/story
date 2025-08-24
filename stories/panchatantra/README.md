@@ -1,4 +1,61 @@
 # Panchatantra
 
-- The Crow and the Pitcher
-- The Tortoise and the Two Swans
+- The Bird Pair and the Sea
+- The Blue Jackal
+- The Brahmin and the Goat
+- The Brahmin and the Mongoose
+- The Brahmin's Dream
+- The Bug and the Tailor
+- The Cat's Judgment
+- The Crab and the Mongoose
+- The Crane and the Crab
+- The Crow and the Snake
+- The Crows and the Serpent
+- The Cunning Crane and the Crab
+- The Elephant and the Hare
+- The Elephant and the Mice
+- The Elephant and the Sparrow
+- The Farmer and the Jackal
+- The Four Friends
+- The Frog and the Snake
+- The Greedy Crane and the Mongoose
+- The Hare and the Partridge
+- The Heron and the Crab
+- The Hunter and the Doves
+- The Jackal and the Crocodile
+- The Jackal and the Drum
+- The Jackal and the Elephant
+- The Jackal and the Lion
+- The Jackal and the War Drum
+- The Jackal Who Fell into the Dye
+- The King and the Foolish Monkey
+- The King and the Parrot
+- The Lion and the Bull
+- The Lion and the Camel
+- The Lion and the Goat
+- The Lion and the Jackal
+- The Lion and the Rabbit
+- The Lion Makers
+- The Loyal Mongoose
+- The Merchant's Son and the Iron Balance
+- The Monkey and the Crocodile
+- The Monkey and the Wedge
+- The Mouse and the Snake
+- The Mouse Turned into a Girl
+- The Musical Donkey
+- The Old Man, the Young Wife, and the Thief
+- The Old Tiger and the Traveller
+- The Prince and the Snake
+- The Sage and the Mouse
+- The Snake and the Ants
+- The Snake and the Crows
+- The Story of the Three Fishes
+- The Talkative Tortoise
+- The Tiger, the Brahmin, and the Jackal
+- The Tortoise and the Geese
+- The Two-Headed Bird
+- The Weaver and the Demon
+- The Weaver and the Princess
+- The Weaver Bird and the Monkey
+- The Wise Goat and the Wolf
+- The Wise Old Bird
